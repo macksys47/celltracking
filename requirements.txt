@@ -1,0 +1,12 @@
+tqdm
+numpy
+pillow
+requests
+typing-extensions
+sacred
+pyyaml
+chardet
+scipy 
+cython
+matplotlib
+opencv-python
